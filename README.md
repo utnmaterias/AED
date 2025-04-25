@@ -1,4 +1,4 @@
-# Algoritmos y Estructuras de Datos
+# Repositorio para la materia Algoritmos y Estructuras de Datos.
 
 ![Estado](https://img.shields.io/badge/Estado-En%20Curso-blue)
 ![Materia](https://img.shields.io/badge/Materia-AED-9cf)
@@ -10,7 +10,13 @@
 
 ---
 
-Repositorio personal para la asignatura de **Algoritmos y Estructuras de Datos**.  
-Trabajo realizado durante el año **2025** (cursada anual), comisión **K1053**.
+**Curso:** K1053  
+**Año de cursada:** 2025, Anual  
+**Legajo:** 115-940-9  
+**Apellido:** Zanutti  
+**Nombre:** Anibal
 
 ---
+Repositorio personal para la asignatura de **Algoritmos y Estructuras de Datos**.  
+Trabajo realizado durante el año **2025** (cursada anual), comisión **K1053**.
+**Usuario GitHub:** azanutti
