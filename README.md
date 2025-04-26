@@ -20,4 +20,4 @@
 Repositorio personal para la asignatura de **Algoritmos y Estructuras de Datos**.  
 Trabajo realizado durante el año **2025** (cursada anual), comisión **K1053**.
 
-**Usuario GitHub:** azanutti
+**Usuario GitHub:** utnmaterias
