@@ -6,7 +6,7 @@
 ![Curso](https://img.shields.io/badge/Curso-K1053-yellow)
 ![Alumno](https://img.shields.io/badge/Alumno-Anibal%20Zanutti-green)
 ![Legajo](https://img.shields.io/badge/Legajo-115--940--9-lightgrey)
-![GitHub](https://img.shields.io/badge/Usuario-azanutti-blueviolet)
+![GitHub](https://img.shields.io/badge/Usuario-utnmaterias-blueviolet)
 
 ---
 
