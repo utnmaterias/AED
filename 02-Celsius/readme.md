@@ -4,7 +4,7 @@ Este proyecto implementa la conversión entre temperaturas Celsius y Fahrenheit 
 
 ## Archivos
 - Temp.cpp: Contiene la lógica, funciones, pruebas y generación de tablas.
-- Grafico.cpp: Contiene el grafico de las funciones y generación de tablas.
+- GraficoConTablas.cpp: Contiene el grafico de las funciones y generación de tablas.
 - readme.md: Este archivo.
 
 ## Funciones implementadas
